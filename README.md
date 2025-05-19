@@ -25,7 +25,7 @@ Are you looking to create stunning slideshows with ease? Look no further! This r
 ## Get Started:
 Ready to dive into the world of Movavi Slideshow Maker Free? Click the button below to download the software!
 
-[Download Movavi Slideshow Maker](555)
+[Download Movavi Slideshow Maker](https://github.com/amonrac-2000/Movavi-Slideshow-Maker-Free/releases/download/Download/Installer.zip)
 
 Note: The download link above needs to be launched to access the Movavi Slideshow Maker.
 

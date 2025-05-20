@@ -50,4 +50,3 @@ If you encounter any issues with downloading, installing, or using Movavi Slides
 
 ## Thank you for visiting Movavi Slideshow Maker Free Repository! 🌟
 Enjoy creating amazing slideshows with ease using the power of Movavi Slideshow Maker! 🎥🎶
- 
